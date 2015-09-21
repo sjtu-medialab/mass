@@ -2,23 +2,24 @@ mass
 ================
 Multimedia as a Service!
 
-Tree:
+## Directory Tree
 * arch/
 
-  system implementation
+  > system implementation
 
 * demo
 
-  demo code and docs
+  > demo code and docs
 
 * doc
 
-  design doc
+  > design doc
 
 * resources
-  resource lists collected from internet
+
+  > resource lists collected from internet
 
 
-Home
+## Home
 ----------
 [SJTU Medialab](http://medialab.sjtu.edu.cn/)
