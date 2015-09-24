@@ -63,6 +63,12 @@ Include blogs, articles, papers, docs, or even source code.
   Start using it now with Mesos, which makes it possible to run multiple
   distributed systems technologies simultaneously.
 
+3. [Video Resources](http://pan.baidu.com/s/1sjsYret)
+
+  > Video resources collected from youtube. youtube is one of the best
+  educational resource bases - but to reach that, you need to know how to serf
+  the internet ***scientifically***, in China, mainland.
+
 
 <a name="mesos_blogs"></a>
 # Blogs/Articles
