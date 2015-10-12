@@ -7,17 +7,25 @@ Multimedia as a Service!
 
   > system implementation
 
-* demo
+* archive/
+
+  > summaries on some topics
+
+* demo/
 
   > demo code and docs
 
-* doc
+* doc/
 
   > design doc
 
-* resources
+* industry/
 
-  > resource lists collected from internet
+  > mass-related industry news, frontiers
+
+* resources/
+
+  > resource lists collected from internet, techical details
 
 
 ## Home
